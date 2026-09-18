@@ -1,4 +1,4 @@
-# IntearCaht-Global-Network
+# InterChat-Global-Network
 Decentralized encrypted retro-messenger with dynamic language switching, built-in firewall and geopolitical rooms
 # 🔐 InterChat Global Network v5.5
 
